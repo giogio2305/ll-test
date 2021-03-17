@@ -1,9 +1,9 @@
 module.exports = {
     env: {
-      'MYSQL_HOST': '127.0.0.1',
+      'MYSQL_HOST': 'remotemysql.com',
       'MYSQL_PORT': '3306',
-      'MYSQL_DATABASE': "geo",
-      'MYSQL_USER': "moo",
-      'MYSQL_PASSWORD': "Db12345678",
+      'MYSQL_DATABASE': "nr1yMXpPIx",
+      'MYSQL_USER': "nr1yMXpPIx",
+      'MYSQL_PASSWORD': "12PoO0Gpxn",
     }
   }
