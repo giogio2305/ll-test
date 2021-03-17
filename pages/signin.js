@@ -18,6 +18,7 @@ const SignInMutation = gql`
         id
         pseudo
         email
+        password
       }
     }
   }
