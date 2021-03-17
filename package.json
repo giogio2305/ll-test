@@ -1,0 +1,40 @@
+{
+  "name": "api-routes-apollo-server-and-client-auth",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "npm install && npm run build",
+    "start": "node server"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.0.2",
+    "@hapi/iron": "6.0.0",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@zeit/next-css": "^1.0.1",
+    "apollo-server-micro": "^2.14.2",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cookie": "^0.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "file-loader": "^6.2.0",
+    "graphql": "^14.0.2",
+    "http-proxy-middleware": "^1.0.6",
+    "lodash": "^4.17.21",
+    "material-table": "^1.69.2",
+    "moment": "^2.27.0",
+    "mysql2": "^2.2.5",
+    "next": "latest",
+    "prop-types": "^15.6.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "sequelize": "^6.5.0",
+    "serverless-mysql": "^1.5.4",
+    "url-loader": "^4.1.1",
+    "uuid": "8.1.0",
+    "webpack": "^5.24.2"
+  },
+  "license": "ISC"
+}
